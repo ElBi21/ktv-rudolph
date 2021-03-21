@@ -12,8 +12,6 @@
  - negro
  - nigga
  - ebola
- - peppebot
- - peppedrillo
  - porco
  - merda
  - stupro
@@ -31,3 +29,6 @@
  - frocio
  - bocchino
  - pompino
+
+# Invito al server
+> [Clicca qui per entrare nel server](https://discord.gg/NHwTza36nM)
