@@ -29,6 +29,7 @@
  - frocio
  - bocchino
  - pompino
+ - suca
 
 # Invito al server
 > [Clicca qui per entrare nel server](https://discord.gg/NHwTza36nM)
